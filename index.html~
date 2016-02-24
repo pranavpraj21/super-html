@@ -1,0 +1,41 @@
+<DOCTYPEhtml>
+<html>
+	<head>
+	<TITLE>hello</TITLE>
+	<meta charset="utf-8">
+	<link href="css/bootstrap.css"rel="stylesheet">
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/jquery-1.js"></script>
+	</head>
+  <body>
+    <div class="jumpotron">
+	<h1>hello world!</h1>
+	<div class="row">
+	<div class="col-md-4">
+	<button class="btn btn-danger  ">Dont click me</button> 
+	</div>
+	<div class="col-md-4">
+	<button class="btn btn-warning ">warning</button>
+	</div>
+	<div class="col-sm-4">
+	<button class="btn btn-success ">green</button>
+	</div>	
+	<div class="col-xs-4">	
+	<button class="btn btn-info ">blue</button>
+	</div>
+	<div class="col-md-4">	
+	<button class="btn btn-primary ">prim</button>
+	</div>	
+	<div class="col-md-4">	
+	<button class="btn btn-default ">def</button>
+	</div>
+
+	<nav class="nav navbar-default">
+	<ul>
+		<li>FOSS</li>
+		<li>COMPUTER</li>
+		<li>LAB</li>
+	</nav>
+</body>
+
+</html>
